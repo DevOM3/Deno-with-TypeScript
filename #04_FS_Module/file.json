@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Om",
+    "age": 17,
+    "open": true
+  },
+  {
+    "name": "Om Londhe",
+    "age": 18,
+    "open": true
+  },
+  {
+    "name": "Abhishek",
+    "age": 18,
+    "open": false
+  }
+]
